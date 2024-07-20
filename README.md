@@ -100,4 +100,5 @@ Navigate to `http://127.0.0.1:5000/image_context.html`, upload an image, and fin
 ## Database Models
 - **Todo**: Model for a simple to-do item.
 - **User**: Model for user details.
+- Automatically updates the order and know their status 
 
